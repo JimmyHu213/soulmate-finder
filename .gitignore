@@ -10,7 +10,9 @@
 .vscode/
 .metadata
 analysis_options.yaml
-soulmate-finder.iml
+soulmate_finder.iml
+.env.local
+Makefile
 
 
 # Flutter repo-specific
